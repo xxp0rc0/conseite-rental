@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3cffb9f1.css",
+    "main.js": "./static/js/main.54cbd61c.js",
+    "static/media/film.mp4": "./static/media/film.223d9aa96d374b418013.mp4",
+    "static/media/pentax.png": "./static/media/pentax.f486740abd55cb1033d6.png",
+    "static/media/lens.png": "./static/media/lens.2b3ce6920d65fd5ac03d.png",
+    "static/media/tripod.png": "./static/media/tripod.f67bfe60cc1f88b928b9.png",
+    "static/media/canon.png": "./static/media/canon.d28bc1c73b05ed128955.png",
+    "static/media/minolta.png": "./static/media/minolta.d59f192fa358a6086f16.png",
+    "static/media/nikon.png": "./static/media/nikon.f488e7e5bffda5b14845.png",
+    "static/media/fujilogo.png": "./static/media/fujilogo.b2ce94101cb7efac36ba.png",
+    "static/media/pentaxlogo.png": "./static/media/pentaxlogo.ddf7718226f3d2152cb2.png",
+    "index.html": "./index.html",
+    "main.3cffb9f1.css.map": "./static/css/main.3cffb9f1.css.map",
+    "main.54cbd61c.js.map": "./static/js/main.54cbd61c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cffb9f1.css",
+    "static/js/main.54cbd61c.js"
+  ]
+}
