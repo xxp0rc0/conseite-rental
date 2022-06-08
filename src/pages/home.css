@@ -1,0 +1,14 @@
+
+.video-banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    flex-direction: column;
+    padding-top: 15vh;
+};
+p {
+    font-size: 100rem;
+}
+
+

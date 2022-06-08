@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  font-family: "Courier 10 Pitch", "Courier 10 Pitch Bold" !important; 
+  
+  background-color: #FCF9EE  !important;
+  
+}
+.social-media{
+  font-size: 2.5vw;
+  line-height: 1.5;
+  letter-spacing: 1.5px;
+   justify-content: center;
+  align-items: center;
+  padding: 0 6rem;
+}
+
+.mail{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+padding: 0 6rem;
+}
+.here{
+  text-decoration: underline;
+  cursor: pointer;
+}
+#mail-title{
+  font-size: 2.5vw;
+}
+#whatever{
+  margin-bottom: 15px;
+}
+.newsletter{
+  font-size: 1.5vw;
+  padding: 0.5rem 1rem;
+  background-color: #A0D5A5;
+}
+.email-box{
+  border: solid 1px;
+  border-radius: 0;
+}
+.social-grid{
+  border-right: solid 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contact{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 0;
+  border-bottom: solid 1px;
+}
+.contact span{
+  padding: 0 1rem;
+  text-decoration: underline;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+/* Homepage */
+@media screen and (min-width: 1023px) {
+
+.video-banner video{
+    width: 40%;
+    height: 50vh;
+     object-fit: cover;
+}
+}
+.logo{
+  display: flex;
+  justify-content: center;
+}
+.home-body{
+  margin: 0 10%;
+}
+.brandss {
+  filter: grayscale(100%);
+  
+}
+.brandss:hover{
+   filter: none;
+}
+
+/* brand page */
+@media screen {
+  
+}
+.brand-page{
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 10rem;
+}
+/* .brand-grid{
+  width:  14rem;
+  height: 14rem;
+  border-radius: 0;
+  border-right: solid 1px black;
+  border-bottom: solid 1px black;
+  border-radius: 0 !important;
+} */
+.collection-image{
+  filter: drop-shadow(8px 8px 4px);
+}
+/* header */
+.navi{
+  padding: 0 2vw;
+  align-self: center;
+  text-decoration: none;
+  color: black;
+}
+#root{
+  
+  background-color: #FCF9EE;
+}
+/* product page */
+.product-page{
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 8%
+};
+.product-name{
+  font-size: 2.5rem;
+};
+
+.rental-date{
+  border-top: "solid 1px black" !important;
+};
+
+.site-collapse-custom-collapse .site-collapse-custom-panel {
+  margin-bottom: 24px;
+  overflow: hidden;
+  background: #f7f7f7;
+  border: 0px;
+  border-radius: 2px;
+  background-color: "none";
+}
+[data-theme='compact'] .site-collapse-custom-collapse .site-collapse-custom-panel,
+.site-collapse-custom-collapse .site-collapse-custom-panel .ant-collapse-header-text{
+  margin-bottom: 24px;
+  overflow: hidden;
+  background: #E38E91;
+  padding: 5px 15px;
+  font-size: 1.2rem;
+  margin-top: 10px;
+  
+}
+
+.pro-img {
+  filter: drop-shadow(8px 8px 4px);
+}
+.ant-drawer-title{
+  font-size: 3rem;
+}
+.active{
+  background-color: #A0D5A5;
+ 
+}
